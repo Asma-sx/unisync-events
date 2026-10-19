@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UniSync Events</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="welcome_hero">Sync with Campus Life</string>
+    <string name="app_overview">Your personal guide to everything happening at Al Imam University. Stay updated, stay connected.</string>
+    <string name="browse_events">Browse Events</string>
+    <string name="announcements">Campus News</string>
+    <string name="get_in_touch">Get in Touch</string>
+    
+    <!-- Categories -->
+    <string name="cat_academic">Academic</string>
+    <string name="cat_cultural">Cultural</string>
+    <string name="cat_sports">Sports</string>
+    
+    <string-array name="event_categories">
+        <item>Academic</item>
+        <item>Cultural</item>
+        <item>Sports</item>
+    </string-array>
+    
+    <!-- Announcements -->
+    <string name="latest_news">Latest Announcements</string>
+</resources>
